@@ -1,2 +1,6 @@
 This is test for git pull
+<<<<<<< HEAD
 hahaha
+=======
+pull
+>>>>>>> origin/master
